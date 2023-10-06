@@ -3,10 +3,6 @@ package com.example.persistenceentity.model;
 import jakarta.persistence.*;
 
 
-//Note: I have created one extra entity called Car,
-//just for Learning purpose. Please do ignore this entity
-//while grading assignment
-//Thank you
 @Entity
 public class Car {
 
